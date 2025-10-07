@@ -35,4 +35,19 @@ for conteo in especies_vegetales.values():
 
 ax[0,1].legend(especies_vegetales.keys(), bbox_to_anchor=(1.05, 0), loc='lower left')
 
+# Relación de altura y carbono
+for bosque in bosques:
+    carbonos = list(df[ df["Site"] == bosque ][["Carbon_est_1", "Carbon_est_2"]].mean(axis=1))
+    alturas = list(df[ df["Site"] == bosque ]["Tree_Height"])
+    ax[1,0].scatter(alturas, carbonos, label=bosque)
+
+    m, c = np.polyfit(alturas, carbonos, 1)
+    line_y = m * np.array(alturas) + c
+    ax[1,0].plot(alturas, line_y, linestyle='--')
+
+ax[1,0].set_title("Relación de altura y carbono por bosque")
+ax[1,0].set_xlabel("Altura (cm)")
+ax[1,0].set_ylabel("Carbono estimado (kg)")
+ax[1,0].legend()
+
 plt.show()
