@@ -19,7 +19,7 @@ def ordenar_datos(df):
     df['Crown_angle'] = pd.to_numeric(df['Crown_angle'], errors='coerce')
 
    
-    df['Wood_density_(g/cm3)'] = 0.59
+    df['Wood_density_(g/cm3)'] = 0.59 #valor de ejemplo
     df['Tree_Height'] = (((np.tan(np.radians(df['Base_angle'])))*8) + ((np.tan(np.radians(df['Crown_angle'])))*8))*100
     df['DBH_(cm)']= df['Circumference_(cm)'] / np.pi
     df['AGB_(cm)'] = 0.0776*((df['Wood_density_(g/cm3)']
