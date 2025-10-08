@@ -45,7 +45,7 @@ def indice_simpson(df):
         'simpson_inverso': 1 / simpson_D, #Es más entendible (mayor valor "es mejor")
         'simpson_diversidad': 1 - simpson_D 
         }
-
+# ==================== Análisis de densidad de Carbono ====================
 def densidad_carbono(df, area_ha=1.0):
     """Calcula densidades de carbono y biomasa por hectárea"""
     
@@ -62,3 +62,15 @@ def densidad_carbono(df, area_ha=1.0):
         'arboles_por_ha': num_arboles / area_ha,
         'carbono_promedio_por_arbol_kg': (carbono_total * 1000 / num_arboles) if num_arboles > 0 else 0
         }
+
+# ==================== Análisis por Sitio ====================
+def estadistica_sitio(df, funcion):
+    """Aplica la función solicitada a cada sitio registrado"""
+    resultados = {}
+    
+    for sitio in df['site'].unique():
+        df_sitio = df[df['site'] == sitio]
+        resultados[sitio] = funcion(df_sitio)
+    
+    return resultados
+    
