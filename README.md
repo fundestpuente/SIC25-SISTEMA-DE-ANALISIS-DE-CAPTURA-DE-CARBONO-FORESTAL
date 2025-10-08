@@ -21,7 +21,7 @@ Breve descripción clara del proyecto (2–5 líneas). Indica:
 - ¿Quiénes son los usuarios o beneficiarios?
 
 **Ejemplo:**  
-> Este proyecto es una aplicación en Python para la gestión de inventarios de pequeñas tiendas. Permite agregar productos, registrar ventas y generar reportes básicos para facilitar el control de stock.
+> Este proyecto es una aplicación en Python para el análisis de captura del carbono forestal. Permite agregar productos, registrar ventas y generar reportes básicos para facilitar el control de stock.
 
 ---
 
