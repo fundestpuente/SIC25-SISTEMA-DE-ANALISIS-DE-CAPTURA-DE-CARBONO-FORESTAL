@@ -79,7 +79,7 @@ SIC25-SISTEMA-DE-ANALISIS-DE-CAPTURA-DE-CARBONO-FORESTAL/
 
 ## ✅ Herramientas Implementadas
 - **Lenguaje:** Python 3.9
-- **Librerías principales:** `<pandas, numpy, tkinter, matplotlib>` 
+- **Librerías principales:** `<pandas, numpy, matplotlib>` 
 - **Otras herramientas:** `< GitHub Actions (CI), streamlit>` 
 
 ---
