@@ -1,0 +1,126 @@
+Site,Parcel,Specie,Base_angle,Crown_angle,Circumference_(cm),Wood_density_(g_cm^-3)
+Bosque de Teca,1,Tectona grandis,8.4,68,68.0,0.59
+Bosque de Teca,1,Tectona grandis,6.9,60,65.0,0.59
+Bosque de Teca,1,Tectona grandis,8.3,62.3,48.0,0.59
+Bosque de Teca,1,Tectona grandis,6.9,63.7,62.0,0.59
+Bosque de Teca,1,Tectona grandis,8.1,64.2,49.0,0.59
+Bosque de Teca,1,Tectona grandis,11.1,62.9,70.0,0.59
+Bosque de Teca,1,Azadirachta indica,5.9,28.4,16.0,0.69
+Bosque de Teca,1,Magnoliopsida,0,0,4.3,0.0
+Bosque de Teca,1,Magnoliopsida,0,0,4.7,0.0
+Bosque de Teca,1,Magnoliopsida,0,0,3.7,0.0
+Bosque de Teca,1,Magnoliopsida,0,0,2.0,0.0
+Bosque de Teca,1,Magnoliopsida,0,0,3.0,0.0
+Bosque de Teca,1,Magnoliopsida,0,0,5.0,0.0
+Bosque de Teca,1,Triumfetta semitriloba,0,0,3.1,0.0
+Bosque de Teca,1,Camonea umbellata,0,0,1.1,0.0
+Bosque de Teca,1,Magnoliopsida,0,0,3.5,0.0
+Bosque de Teca,1,Guazuma ulmifolia,0,0,5.7,0.0
+Bosque de Teca,1,Triumfetta semitriloba,0,0,2.9,0.0
+Bosque de Teca,1,Magnoliopsida,0,0,5.3,0.0
+Bosque de Teca,1,Magnoliopsida,0,0,4.5,0.0
+Bosque de Teca,1,Solanum erianthum,0,0,2.2,0.0
+Bosque de Teca,1,Magnoliopsida,0,0,2.0,0.0
+Bosque de Teca,1,Magnoliopsida,0,0,2.8,0.0
+Bosque de Teca,1,Ruellia floribunda,0,0,1.0,0.0
+Bosque de Teca,1,Magnoliopsida,0,0,2.5,0.0
+Bosque de Teca,1,Magnoliopsida,0,0,2.0,0.0
+Bosque de Teca,1,Magnoliopsida,0,0,0.5,0.0
+Bosque de los sueños,1,Guazuma ulmifolia,0,0,0.0,0.0
+Bosque de los sueños,1,Magnoliopsida,0,0,0.0,0.0
+Bosque de los sueños,1,Dalbergia ecastaphyllum,0,0,0.0,0.0
+Bosque de los sueños,1,Pisonia capitata,0,0,0.0,0.0
+Bosque de los sueños,1,Oplismenus spp.,0,0,0.0,0.0
+Bosque de los sueños,1,Magnoliopsida,0,0,0.0,0.0
+Bosque de los sueños,1,Oplismenus spp.,0,0,0.0,0.0
+Bosque de los sueños,1,Psychotria daphnoides,0,0,0.0,0.0
+Bosque de los sueños,1,Lasianthaea macrocephala,0,0,0.0,0.0
+Bosque de los sueños,1,Oplismenus spp.,0,0,0.0,0.0
+Bosque de los sueños,1,Azadirachta indica,0,0,0.0,0.0
+Bosque de los sueños,1,Magnoliopsida,0,0,0.0,0.0
+Bosque de los sueños,1,Oplismenus spp.,0,0,0.0,0.0
+Bosque de los sueños,1,Lasiacis divaricata,0,0,0.0,0.0
+Bosque de los sueños,1,Oplismenus spp.,0,0,0.0,0.0
+Bosque de los sueños,1,Magnoliopsida,0,0,0.0,0.0
+Bosque de los sueños,1,Magnoliopsida,0,0,0.0,0.0
+Bosque de los sueños,1,Brachylaena rotundata,0,0,0.0,0.0
+Bosque de los sueños,1,Coursetia caribaea,0,0,0.0,0.0
+Bosque de los sueños,1,Handroanthus chrysanthus,16.3,53.5,32.0,0.92
+Bosque de los sueños,1,Handroanthus chrysanthus,12.3,50.6,97.0,0.92
+Bosque de los sueños,1,Pseudalbizzia multiflora,12.7,51.2,38.0,0.68
+Bosque de los sueños,1,Pseudalbizzia multiflora,13.2,53.4,63.0,0.68
+Bosque de los sueños,1,Handroanthus chrysanthus,12.7,54.6,58.0,0.92
+Bosque de los sueños,1,Pseudalbizzia multiflora,12.7,51.1,58.0,0.68
+Bosque de los sueños,1,Astronium graveolens,9.1,35.9,22.0,0.85
+Bosque de los sueños,1,Pseudalbizzia multiflora,10,32,57.0,0.68
+Bosque de los sueños,1,Pseudalbizzia multiflora,12,35,39.0,0.68
+Bosque de los sueños,1,Maclura tinctoria,11,45,62.0,0.87
+Bosque de los sueños,1,Maclura tinctoria,9,50,62.5,0.87
+Bosque de Teca,2,Tectona grandis,-,-,69.0,0.59
+Bosque de Teca,2,Tectona grandis,11.8,62.6,27.5,0.59
+Bosque de Teca,2,Tectona grandis,-,-,71.0,0.59
+Bosque de Teca,2,Tectona grandis,12.7,61.2,16.2,0.59
+Bosque de Teca,2,Tectona grandis,12.3,60.6,56.0,0.59
+Bosque de Teca,2,Tectona grandis,12.7,68.8,95.0,0.59
+Bosque de Teca,2,Tectona grandis,-,-,62.5,0.59
+Bosque de Teca,2,Tectona grandis,-,-,90.0,0.59
+Bosque de Teca,2,Tectona grandis,12.8,60.8,53.0,0.59
+Bosque de Teca,2,Tectona grandis,11.7,61.1,78.0,0.59
+Bosque de Teca,2,Tectona grandis,-,-,73.5,0.59
+Bosque de Teca,2,Triumfetta semitriloba,0,0,6.2,0.0
+Bosque de Teca,2,Meliosma vernicosa,0,0,4.5,0.0
+Bosque de Teca,2,Meliosma vernicosa,0,0,8.0,0.0
+Bosque de Teca,2,Meliosma vernicosa,0,0,5.0,0.0
+Bosque de Teca,2,Triumfetta semitriloba,0,0,5.0,0.0
+Bosque de Teca,2,Solanum erianthum,0,0,6.0,0.0
+Bosque de Teca,2,Solanum erianthum,0,0,7.0,0.0
+Bosque de Teca,2,Meliosma vernicosa,0,0,0.0,0.0
+Bosque de Teca,2,Triumfetta semitriloba,0,0,0.0,0.0
+Bosque de Teca,2,Solanum erianthum,0,0,4.5,0.0
+Bosque de Teca,2,Solanum erianthum,0,0,8.0,0.0
+Bosque de Teca,2,Solanum erianthum,0,0,6.0,0.0
+Bosque de los sueños,2,Craveta tapia,20,50,84.0,0.44
+Bosque de los sueños,2,Azadirachta indica,20,45,47.0,0.69
+Bosque de los sueños,2,Tectona grandis,22,46,78.0,0.59
+Bosque de los sueños,2,Craveta tapia,20,40,90.0,0.44
+Bosque de los sueños,2,Craveta tapia,18,45,62.0,0.44
+Bosque de los sueños,2,Craveta tapia,25,45,60.0,0.44
+Bosque de los sueños,2,Craveta tapia,15,10,22.0,0.44
+Bosque de los sueños,2,Azadirachta indica,15,45,85.0,0.69
+Bosque de los sueños,2,Craveta tapia,15,9,22.0,0.44
+Bosque de los sueños,2,Cordia alliodora,0,0,0.0,0.48
+Bosque de los sueños,2,Inga brachystachys,0,0,12.0,0.55
+Bosque de los sueños,2,Piper tuberculatum,0,0,6.0,0.35
+Bosque de los sueños,2,Rhynchosia phaseoloides,0,0,9.0,0.0
+Bosque de los sueños,2,Jatropha integerrima,0,0,0.0,0.5
+Bosque de los sueños,2,Bathysa australis,0,0,7.0,0.53
+Bosque de los sueños,2,Hexalobus monopetalus,0,0,0.0,0.0
+Bosque de los sueños,2,Acacia macracantha,0,0,9.0,0.7
+Bosque de los sueños,2,Guazuma ulmifolia,0,0,0.0,0.0
+Bosque de los sueños,2,Acalypha macrostachya,0,0,0.0,0.45
+Bosque de los sueños,2,Palicourea sp.,0,0,0.0,0.0
+Bosque de los sueños,2,Albizia guachapele,4.5,58.9,100.0,0.56
+Bosque de los sueños,3,Azadirachta indica,3.4,53.1,68.0,0.69
+Bosque de los sueños,3,Albizia guachapele,2.8,42.5,29.0,0.56
+Bosque de los sueños,3,Prosopis juliflora,19.9,41.1,130.0,0.75
+Bosque de los sueños,3,Azadirachta indica,7.7,17.3,15.0,0.69
+Bosque de los sueños,3,Azadirachta indica,12.8,14.2,10.0,0.69
+Bosque de los sueños,3,Euphorbia bracteata,0,0,0.0,0.0
+Bosque de los sueños,3,Lasiacis ruscifolia,0,0,0.0,0.0
+Bosque de los sueños,3,Bauhinia acuminata,0,0,0.0,0.0
+Bosque de los sueños,3,Acacia macracantha,0,0,0.0,0.0
+Bosque de Teca,3,Tectona grandis,10,60,58.0,0.59
+Bosque de Teca,3,Tectona grandis,10,75,54.0,0.59
+Bosque de Teca,3,Tectona grandis,20,79,71.0,0.59
+Bosque de Teca,3,Tectona grandis,15,74,71.5,0.59
+Bosque de Teca,3,Tectona grandis,12,79,61.5,0.59
+Bosque de Teca,3,Tectona grandis,11,76,55.5,0.59
+Bosque de Teca,3,Tectona grandis,18,39,35.0,0.59
+Bosque de Teca,3,Tectona grandis,10,79,47.0,0.59
+Bosque de Teca,3,Tectona grandis,10,66,42.5,0.59
+Bosque de Teca,3,Piliostigma thonningii,0,0,0.0,0.0
+Bosque de Teca,3,Dichanthelium clandestinum,0,0,0.0,0.0
+Bosque de Teca,3,Lackeya multiflora,0,0,0.0,0.0
+Bosque de Teca,3,Guarea guidonia,0,0,0.0,0.0
+Bosque de Teca,3,Pseudalbizzia multiflora,15,21,19.0,0.7
+Bosque de Teca,3,Pseudalbizzia multiflora,15,18,22.5,0.7
