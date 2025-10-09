@@ -1,7 +1,7 @@
 # 📌 <SISTEMA_DE_ANALISIS_DE_CAPTURA_DE_CARBONO_FORESTAL>
 
 **Curso:** Samsung Innovation Campus – Módulo de Python (Ecuador 2025)  
-**Seccion:** <ecuador03>
+**Seccion:** 'ecuador03'
 **Carpeta:** `/<ecuador03>/<SIC25-SISTEMA-DE-ANALISIS-DE-CAPTURA-DE-CARBONO-FORESTAL>`
 
 ---
