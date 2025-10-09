@@ -1,8 +1,8 @@
 # 📌 <NOMBRE_DEL_PROYECTO>
 
 **Curso:** Samsung Innovation Campus – Módulo de Python (Ecuador 2025)  
-**Seccion:** <ecuador03 | ecuador04>  
-**Carpeta:** `/<ecuador03>/<proyecto-xx-nombre>`
+**Seccion:** <ecuador03>  
+**Carpeta:** `/<ecuador03>/<SIC25-SISTEMA-DE-ANALISIS-DE-CAPTURA-DE-CARBONO-FORESTAL>`
 
 ---
 
@@ -15,13 +15,7 @@
 ---
 
 ## 📝 Descripción del Proyecto
-Breve descripción clara del proyecto (2–5 líneas). Indica:
-- ¿Qué problema resuelve?
-- ¿Cuál es el objetivo principal?
-- ¿Quiénes son los usuarios o beneficiarios?
-
-**Ejemplo:**  
-> Este proyecto es una aplicación en Python para el análisis de captura del carbono forestal. Permite automatizar el procesamiento y análisis de datos para presentar información clave en la gestión del inventario forestal.
+Este proyecto es una aplicación en Python para el análisis de captura del carbono forestal. Permite automatizar el procesamiento y análisis de datos para la estimación de captura de carbono forestal en varias áreas. Este proyecto ayudaría a investigadores, gestores ambientales y organizaciones de conservación y restauración a gastar menos tiempo en el análisis de la captura de carbono forestal y ayudará al proceso rápido de este tipo de datos.
 
 ---
 
@@ -34,56 +28,59 @@ Breve descripción clara del proyecto (2–5 líneas). Indica:
 ### Pasos
 1. Clonar el repositorio (o asegurarse de estar en la carpeta del proyecto):
    ```bash
-   git clone <URL_DEL_REPO>
-   cd <ruta/al/proyecto>   # ej: cd ecuador03/proyecto-01-nombre
+   git clone <https://github.com/fundestpuente/SIC25-SISTEMA-DE-ANALISIS-DE-CAPTURA-DE-CARBONO-FORESTAL>
+   cd SIC25-SISTEMA-DE-ANALISIS-DE-CAPTURA-DE-CARBONO-FORESTAL  # ej: cd ecuador03/proyecto-01-nombre
    ```
 
 2. Actualizar pip e instalar dependencias:
    ```bash
    pip install --upgrade pip
+   pip install streamlit
    pip install -r requirements.txt
    ```
 
 3. Ejecutar la aplicación (ejemplo):
    ```bash
-   python main.py
-   ```
-   O, si es una aplicación web:
-   ```bash
-   uvicorn app.main:app --reload   
-   ```
-   Reemplaza los comandos anteriores por los específicos de tu proyecto.
-
-4. Ejecutar pruebas (si aplica):
-   ```bash
-   pytest
-   ```
+   streamlit run app.py
 
 ---
 
 ## 📂 Estructura del Código (sugerida)
 ```
-proyecto-xx-nombre/
+SIC25-SISTEMA-DE-ANALISIS-DE-CAPTURA-DE-CARBONO-FORESTAL/
 │
-├── main.py               # Punto de entrada principal
-├── README.md             # Este archivo (personalizar)
-├── requirements.txt      # Dependencias del proyecto
-├── src/                  # Código fuente del proyecto
-│   ├── module1.py
-│   └── module2.py
-├── data/                 # Datos de ejemplo 
-├── docs/                 # Documentación adicional (opcional)
-└── .gitignore
-```
+├── app.py                              # Punto de entrada principal de la aplicación
+├── README.md                           # Documentación del proyecto
+├── requirements.txt                    # Dependencias necesarias para ejecutar la app
+├── data/                               # Archivos de datos utilizados por la app
+│   ├── Captura_Info.csv
+│   └── Captura_Info.xlsx
+├── pages/                              # Módulos o páginas funcionales
+│   ├── P1. Subir_Datos.py              # Módulo para cargar y validar archivos CSV/Excel
+│   ├── P2. Ordenar_Datos.py            # Módulo para ordenar datos según criterios definidos
+│   ├── P3. Estadísticas.py             # Módulo para calcular estadísticas descriptivas
+│   └── P4. Graficos.py                 # Módulo para generar gráficos y visualizaciones
+├── utils/                              # Funciones auxiliares y herramientas de apoyo
+│   └── helpers.py                      # Funciones reutilizables (limpieza, formateo, etc.)
+└── .idea/                              # Archivos de configuración del entorno (PyCharm)
+    ├── .gitignore
+    ├── .name
+    ├── SIC25-SISTEMA-DE-ANALISIS-DE-CAPTURA-DE-CARBONO-FORESTAL.iml  # Archivo de configuración principal del proyecto
+    ├── misc.xml
+    ├── modules.xml
+    ├── vcs.xml
+    └── inspectionProfiles/             # Configuración de inspección de código
+        ├── Project_Default.xml
+        └── profiles_settings.xml
 
-> Nota: Ajusta la estructura según las necesidades de tu proyecto, pero mantén orden y claridad.
+```
 
 ---
 
 ## ✅ Herramientas Implementadas
-- **Lenguaje:** Python 3.x
-- **Librerías principales:** `<pandas, numpy, flask, fastapi, matplotlib, etc.>` (lista → reemplazar)
-- **Otras herramientas:** `<Docker, GitHub Actions (CI), pytest, etc.>` (lista → reemplazar)
+- **Lenguaje:** Python 3.9
+- **Librerías principales:** `<pandas, numpy, tkinter, matplotlib>` 
+- **Otras herramientas:** `< GitHub Actions (CI), streamlit>` 
 
 ---
 
